@@ -1,0 +1,35 @@
+﻿  main-CTurtle.cpp
+C:\Users\nguyent2\Desktop\L02\CTurtle-DS\main-CTurtle.cpp(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\nguyent2\Desktop\L02\CTurtle-DS\CTurtle.hpp(1711,57): warning C4244: 'argument': conversion from 'cturtle::detail::time_t' to 'unsigned int', possible loss of data
+C:\Users\nguyent2\Desktop\L02\CTurtle-DS\CTurtle.hpp(4056,28): warning C4838: conversion from 'unsigned int' to 'bool' requires a narrowing conversion
+C:\Users\nguyent2\Desktop\L02\CTurtle-DS\CTurtle.hpp(4057,28): warning C4838: conversion from 'unsigned int' to 'bool' requires a narrowing conversion
+C:\Users\nguyent2\Desktop\L02\CTurtle-DS\CTurtle.hpp(4058,28): warning C4838: conversion from 'unsigned int' to 'bool' requires a narrowing conversion
+C:\Users\nguyent2\Desktop\L02\CTurtle-DS\CTurtle.hpp(4402,62): warning C4244: 'initializing': conversion from 'cturtle::detail::time_t' to 'unsigned long', possible loss of data
+C:\Users\nguyent2\Desktop\L02\CTurtle-DS\CTurtle.hpp(4402,43): warning C4244: 'initializing': conversion from 'cturtle::detail::time_t' to 'const unsigned long', possible loss of data
+C:\Users\nguyent2\Desktop\L02\CTurtle-DS\CTurtle.hpp(4407,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\nguyent2\Desktop\L02\CTurtle-DS\CTurtle.hpp(4412,39): warning C4244: 'initializing': conversion from 'cturtle::detail::time_t' to 'unsigned long', possible loss of data
+C:\Users\nguyent2\Desktop\L02\CTurtle-DS\CTurtle.hpp(4457,46): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\nguyent2\Desktop\L02\CTurtle-DS\main-CTurtle.cpp(23,21): error C2065: 'thy': undeclared identifier
+C:\Users\nguyent2\Desktop\L02\CTurtle-DS\main-CTurtle.cpp(23,26): error C2065: 'x': undeclared identifier
+C:\Users\nguyent2\Desktop\L02\CTurtle-DS\main-CTurtle.cpp(23,29): error C2065: 'y': undeclared identifier
+C:\Users\nguyent2\Desktop\L02\CTurtle-DS\main-CTurtle.cpp(23,30): error C2182: 'draw_rectangle': illegal use of type 'void'
+C:\Users\nguyent2\Desktop\L02\CTurtle-DS\main-CTurtle.cpp(23,32): error C2448: 'draw_rectangle': function-style initializer appears to be a function definition
+C:\Users\nguyent2\Desktop\L02\CTurtle-DS\main-CTurtle.cpp(39,17): error C2065: 'thy': undeclared identifier
+C:\Users\nguyent2\Desktop\L02\CTurtle-DS\main-CTurtle.cpp(39,20): error C2182: 'draw_swing': illegal use of type 'void'
+C:\Users\nguyent2\Desktop\L02\CTurtle-DS\main-CTurtle.cpp(39,22): error C2448: 'draw_swing': function-style initializer appears to be a function definition
+C:\Users\nguyent2\Desktop\L02\CTurtle-DS\main-CTurtle.cpp(81,17): error C2065: 'maithy': undeclared identifier
+C:\Users\nguyent2\Desktop\L02\CTurtle-DS\main-CTurtle.cpp(81,25): error C2065: 'ask_color': undeclared identifier
+C:\Users\nguyent2\Desktop\L02\CTurtle-DS\main-CTurtle.cpp(81,34): error C2182: 'write_word': illegal use of type 'void'
+C:\Users\nguyent2\Desktop\L02\CTurtle-DS\main-CTurtle.cpp(81,36): error C2448: 'write_word': function-style initializer appears to be a function definition
+C:\Users\nguyent2\Desktop\L02\CTurtle-DS\main-CTurtle.cpp(105,28): error C2039: 'setworldcoordinates': is not a member of 'cturtle::TurtleScreen'
+C:\Users\nguyent2\Desktop\L02\CTurtle-DS\CTurtle.hpp(3411): message : see declaration of 'cturtle::TurtleScreen'
+C:\Users\nguyent2\Desktop\L02\CTurtle-DS\main-CTurtle.cpp(109,18): error C2039: 'color': is not a member of 'cturtle::Turtle'
+C:\Users\nguyent2\Desktop\L02\CTurtle-DS\CTurtle.hpp(2922): message : see declaration of 'cturtle::Turtle'
+C:\Users\nguyent2\Desktop\L02\CTurtle-DS\main-CTurtle.cpp(113,18): error C2039: 'color': is not a member of 'cturtle::Turtle'
+C:\Users\nguyent2\Desktop\L02\CTurtle-DS\CTurtle.hpp(2922): message : see declaration of 'cturtle::Turtle'
+C:\Users\nguyent2\Desktop\L02\CTurtle-DS\main-CTurtle.cpp(115,16): error C2039: 'pensize': is not a member of 'cturtle::Turtle'
+C:\Users\nguyent2\Desktop\L02\CTurtle-DS\CTurtle.hpp(2922): message : see declaration of 'cturtle::Turtle'
+C:\Users\nguyent2\Desktop\L02\CTurtle-DS\main-CTurtle.cpp(117,17): error C2039: 'color': is not a member of 'cturtle::Turtle'
+C:\Users\nguyent2\Desktop\L02\CTurtle-DS\CTurtle.hpp(2922): message : see declaration of 'cturtle::Turtle'
+C:\Users\nguyent2\Desktop\L02\CTurtle-DS\main-CTurtle.cpp(118,5): error C2064: term does not evaluate to a function taking 1 arguments
+C:\Users\nguyent2\Desktop\L02\CTurtle-DS\main-CTurtle.cpp(119,5): error C2064: term does not evaluate to a function taking 2 arguments
